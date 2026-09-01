@@ -6,7 +6,7 @@ An Excel-based Indian Property Sales Analysis project focused on exploring, clea
 The project demonstrates the use of Microsoft Excel for data analysis, formula management, data cleaning, sales performance classification, regional analysis, trend analysis, and dashboard development.
 The workbook contains multiple analytical exercises covering the complete journey from raw property data to business-focused reporting.
 
-###🎯 Project Objectives
+### 🎯 Project Objectives
 Explore and understand Indian property data.
 Calculate key revenue and business metrics.
 Audit and manage Excel formulas.
@@ -18,7 +18,7 @@ Merge and retrieve relevant data.
 Analyze sales trends.
 Build an interactive property sales dashboard.
 
-##📁 Project Structure
+## 📁 Project Structure
 The workbook is organized into the following analysis sections:
 
 ###1. Exploring Property Sales Data
@@ -35,10 +35,10 @@ Number of Floors
 Number of Apartments
 Flat Types / BHK
 
-###2. Calculating Revenue & Key Metrics
+### 2. Calculating Revenue & Key Metrics
 Performed calculations to derive important business and property-related metrics from the dataset.
 
-###3. Auditing Formulas & Managing Data
+### 3. Auditing Formulas & Managing Data
 Used Excel formula-auditing techniques to understand and validate calculations, including:
 
 Trace Precedents
@@ -46,7 +46,7 @@ Trace Dependents
 Formula management
 Formula verification
 
-###4. Cleaning & Structuring Data
+### 4. Cleaning & Structuring Data
 Performed data-cleaning and restructuring activities to make the dataset suitable for analysis.
 
 Key activities included:
@@ -55,7 +55,8 @@ Cleaning inconsistent data
 Structuring columns
 Updating city-related information
 Preparing data for further analysis
-5. Identifying Business Insights
+
+### 5. Identifying Business Insights
 
 Analyzed the property dataset to identify useful patterns and business insights.
 
